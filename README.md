@@ -10,7 +10,7 @@
 (৩) Horizantol Angle জান্তে হবে
 
 (৪) Vertical angle জান্তে হবে ( মূল জিনিস এটা)
------------------------
+## distance
 
 (1) Horizantol distans জান্তে হবে
 
