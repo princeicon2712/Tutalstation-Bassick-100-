@@ -10,6 +10,8 @@
 (৩) Horizantol Angle জান্তে হবে
 
 (৪) Vertical angle জান্তে হবে ( মূল জিনিস এটা)
+
+(5) azimat angle [ Noth লাইন ঠিক রেখে Bearing এর মতো ডাইন সাইট যাওয়াকে বলে ]
 ## distance
 
 (1) Horizantol distans জান্তে হবে
