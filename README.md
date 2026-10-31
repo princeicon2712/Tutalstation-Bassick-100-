@@ -31,6 +31,8 @@ Horizantal Distance= Northing
 (2) OBS= obser Bition
 শুদু Northin distancs এর জন্য = Horizantal Distance
 
+Horizantal Angla = o set করতে হবে 
+
 (3) occ.= orian tation [ প্রথম যেখানে মেশিন আছে ঐখানে N= 1000.000,E= 1000.000, HI= মেশিন হাইট দিতে হবে।
 
 (4) CD [ back side নাম লিখতে হবে।]
