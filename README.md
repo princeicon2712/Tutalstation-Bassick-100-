@@ -18,5 +18,9 @@
 
 (2) Vertical ই হলো slop distance  জান্তে হবে ( মূল জিনিস এটা)
 
+##
+
+Horizantal Distance= Northing
+
 <!--[profile](./r.jpg)-->
 <img src="r.jpg" width="600"/>
